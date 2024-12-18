@@ -2,13 +2,17 @@
 
 ## Overview
 
-Crypto Assistant is a comprehensive cryptocurrency analysis platform that combines real-time market data with advanced AI models (TimeGPT and LLaMA 2) to provide intelligent market insights, price forecasting, and interactive analysis tools.
+Crypto Assistant is a comprehensive cryptocurrency analysis platform that combines real-time market data with advanced AI models (TimeGPT and LLaMA 3.2) to provide intelligent market insights, price forecasting, and interactive analysis tools.
+
+## Project Demo Link
+
+**Video Walkthrough:** [Watch the Demo Video](https://youtu.be/kBMPZk--sE0)
 
 ## Key Features
 
 - 📊 Real-time cryptocurrency price tracking and analysis
 - 🤖 AI-powered price forecasting using TimeGPT
-- 🧠 Market insights and analysis using LLaMA 2
+- 🧠 Market insights and analysis using LLaMA 3.2
 - 💬 Interactive chat interface for market queries
 - 📈 Advanced technical indicators and charting
 - 📰 News sentiment analysis and integration
@@ -17,7 +21,7 @@ Crypto Assistant is a comprehensive cryptocurrency analysis platform that combin
 
 - **Frontend**: Streamlit, Plotly
 - **Backend**: Python, MongoDB
-- **AI Models**: TimeGPT, LLaMA 2
+- **AI Models**: TimeGPT, LLaMA 3.2
 - **Data Sources**: AlphaVantage API
 - **Additional Libraries**: Pandas, NumPy, NLTK, TextBlob
 
