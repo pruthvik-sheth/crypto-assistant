@@ -8,6 +8,12 @@ Crypto Assistant is a comprehensive cryptocurrency analysis platform that combin
 
 **Video Walkthrough:** [Watch the Demo Video](https://youtu.be/kBMPZk--sE0)
 
+![Product Image](image.png)
+![Product Image 1](image-1.png)
+![Product Image 2](image-2.png)
+![Product Image 3](image-3.png)
+![Product Image 4](image-4.png)
+
 ## Key Features
 
 - 📊 Real-time cryptocurrency price tracking and analysis
